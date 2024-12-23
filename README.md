@@ -1,4 +1,4 @@
-###  EXPERIMENT 1: study of basic digital lc's and verification of truth tables for different logic gates,realization using verilog
+###  EXPERIMENT 1: Study of basic digital lc's and verification of truth tables for different logic gates,realization using verilog
 
 NAME: KIRUTHIGA.B
 
